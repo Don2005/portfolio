@@ -91,7 +91,7 @@ hr {
 .hobby ul{
     margin-left: 30px;
 }
-@media only screen and (max-width: 1750px) and (min-width:391px) {
+@media only screen and (max-width: 1750px) and (min-width:401px) {
     .box {
         box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
         width: 80%;
@@ -177,7 +177,7 @@ hr {
         margin-left: 30px;
     }
   }
-  @media only screen and (max-width: 390px) {
+  @media only screen and (max-width: 400px) {
     .box {
         box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
         width: 80%;
@@ -215,7 +215,7 @@ hr {
     .profile li{
         list-style: none;
         margin-top: 5px;
-        font-size: 15px;
+        font-size: 13px;
     }
     .address-icon {
         width: 10px;
